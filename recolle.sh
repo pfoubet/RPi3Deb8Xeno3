@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cat RPiD8XEN3aa RPiD8XEN3ab RPiD8XEN3ac RPiD8XEN3ad RPiD8XEN3ae RPiD8XEN3af RPiD8XEN3ag RPiD8XEN3ah > RPi_Deb8_Xeno3.0.5.img.xz
+
